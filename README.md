@@ -1,6 +1,6 @@
 # Asgn6 - Tying it all thogether...with THREADS
 No Design Due  
-Final Due: Tuesday 4/30
+Final Due: Sunday 5/02
 
 # Objectives 
 1. Practice writing multi-threaded programs.
@@ -20,7 +20,7 @@ Your task is to insert a multi-threaded matrix multiply into the test harness we
     * NOTE: Using global variables like this is generally a bad idea, but the test harness code is stolen (borrowed!) it uses global variables. Since threads share global variables, this works out just fine. 
     
 # Submission
-Due: Tueday 4/30
+Due: Sunday 5/02
 
 Submit to GitHub:
 1. All relevant code and makefiles.
